@@ -132,9 +132,3 @@ that they dug for someone else.
 so let the past die. kill it, if you have to. that's the only way to become what you were meant to be.
 
 I will be informed by my past. not defined by it.
-Prose
-Prose
-About
-Developers
-Language
-Logout

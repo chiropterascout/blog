@@ -1,15 +1,3 @@
-Describe your Changes
-
-Create 2018-03-03-blog.md
-COMMIT
-imogenerative / blog
-
-_posts/2018-03-03-blog.md
-Review your changes:
-Additions are highlighted in green. Deletions are crossed out.
----
-published: false
----
 ---
 layout: post
 title: blog

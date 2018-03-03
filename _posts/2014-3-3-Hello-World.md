@@ -1,10 +1,17 @@
 ---
 layout: post
-title: You're up and running!
+title: imogenerative.github.io
 ---
+# imogenerative.github.io
 
-Next you can update your site name, avatar and other options using the _config.yml file in the root of your repository (shown below).
+code is art. or art is code. or I'm a developer with a fine arts degree. this is where I'm keeping the weird art I put on this site for code.
 
-![_config.yml]({{ site.baseurl }}/images/config.png)
+for more of my bullshit visit [@calculush](https://twitter.com/calculush) on twitter.
 
-The easiest way to make your first post is to edit this one. Go into /_posts/ and update the Hello World markdown file. For more instructions head over to the [Jekyll Now repository](https://github.com/barryclark/jekyll-now) on GitHub.
+* [bitlorean](https://bitlorean.herokuapp.com)
+* [markov shrugged](markov-shrugged)
+* [poetry](poetry)
+
+my actual code is [here](https://github.com/imogenerative).
+
+© 2018 Imogen Fulton.

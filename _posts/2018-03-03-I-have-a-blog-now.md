@@ -3,6 +3,8 @@ layout: post
 title: blog
 ---
 
+**CONTENT WARNING: SEXUAL ASSAULT**
+
 I'm actually at a loss for what to do here, if I'm honest.
 
 like what do I write here that I don't already write on my twitter? or my AD twitter? anything I might write as a blog post I already write as tweetstorms... and hoo boy do I tweetstorm.

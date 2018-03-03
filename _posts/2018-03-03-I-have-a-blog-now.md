@@ -1,6 +1,6 @@
 ---
 layout: post
-title: blog
+title: I have a blog now 
 ---
 
 **CONTENT WARNING: SEXUAL ASSAULT**

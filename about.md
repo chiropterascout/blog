@@ -11,6 +11,6 @@ in terms of my art practice (haven't used that word for a while) I'm interested 
 <blockquote class="twitter-tweet" data-lang="en"><p lang="en" dir="ltr">They&#39;re at a sales meeting. <a href="https://t.co/3aCBEXbfUi">pic.twitter.com/3aCBEXbfUi</a></p>&mdash; lapin-étoilé 🐰🌺🦇 (@kivikakk) <a href="https://twitter.com/kivikakk/status/968603065757589504?ref_src=twsrc%5Etfw">February 27, 2018</a></blockquote>
 <script async src="https://platform.twitter.com/widgets.js" charset="utf-8"></script>
 
-yeah. I've got so many words on that in my thesis and it was pretty much summed up in a tweet about something I hear at a work seminar.
+yeah. I've got so many words on that in my thesis and it was pretty much summed up in a tweet about something I heard at a work seminar.
 
 ```M-x :paintbrush```

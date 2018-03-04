@@ -23,7 +23,8 @@ because I have accepted that I have issues with substance abuse. I try and keep 
 
 and I wrote this:
 
-[it's still a drug](https://imogenerative.github.io/poetry/it's%20still%20a%20drug)
+## [it's still a drug](https://imogenerative.github.io/poetry/it's%20still%20a%20drug)
+
 > the the more I try the worse it gets,
 > the more I try to forget.
 

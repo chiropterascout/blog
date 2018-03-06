@@ -1,6 +1,7 @@
 ---
 layout: post
 title: first post
+date: 2018-03-03 18:59 AEST
 ---
 
 I guess I have a blog here now, so I'm going to talk about the art I put on this site that I don't know that I should.

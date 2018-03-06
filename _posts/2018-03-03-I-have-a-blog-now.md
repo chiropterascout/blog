@@ -1,6 +1,7 @@
 ---
 layout: post
 title: I have a blog now 
+date: 2018-03-03 20:56 AEST
 ---
 
 **CONTENT WARNING: SEXUAL ASSAULT**

@@ -217,7 +217,8 @@ nav {
   font-size: 18px;
 
   @include mobile {
-    float: none;
+    //float: none;
+    margin: 0 auto;
     margin-top: 9px;
     display: block;
     font-size: 16px;

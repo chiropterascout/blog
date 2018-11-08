@@ -1,0 +1,56 @@
+==================================================================
+https://keybase.io/scoutquinn
+--------------------------------------------------------------------
+
+I hereby claim:
+
+  * I am an admin of https://scout.codes
+  * I am scoutquinn (https://keybase.io/scoutquinn) on keybase.
+  * I have a public key ASADdvu-_zGjeazRlORyb_eCNO21JmvHBtlOSqi402m_2wo
+
+To do so, I am signing this object:
+
+{
+  "body": {
+    "key": {
+      "eldest_kid": "012039e1ef809cabbfccea9baac0d2b5fbbb1640974c5c8749428bbc941fa8fefa2f0a",
+      "host": "keybase.io",
+      "kid": "01200376fbbeff31a379acd194e4726ff78234edb5266bc706d94e4aa8b8d369bfdb0a",
+      "uid": "09cc5087114db053132fc8ef5d4b4319",
+      "username": "scoutquinn"
+    },
+    "merkle_root": {
+      "ctime": 1541635653,
+      "hash": "afed3330421304063343c158eb87442fb07cd9aa83b10cec6af6ea72c29c5648d2b9c1e958bff13bd66a4455fbc6469810237e558b6cdfe789c10c8f3c9c5455",
+      "hash_meta": "4df332f7ebf84ce33414285c86df4ed734fde0c552f9fdce0dca24ea29a36a79",
+      "seqno": 3918157
+    },
+    "service": {
+      "entropy": "SdEFgNHFvnuODPAgiK9F9nz/",
+      "hostname": "scout.codes",
+      "protocol": "https:"
+    },
+    "type": "web_service_binding",
+    "version": 2
+  },
+  "client": {
+    "name": "keybase.io go client",
+    "version": "2.9.0"
+  },
+  "ctime": 1541635669,
+  "expire_in": 504576000,
+  "prev": "5fd30c0cc6acfee6092653b240613c6a1551a1a1b285e5057ed6c9497c2561aa",
+  "seqno": 20,
+  "tag": "signature"
+}
+
+which yields the signature:
+
+hKRib2R5hqhkZXRhY2hlZMOpaGFzaF90eXBlCqNrZXnEIwEgA3b7vv8xo3ms0ZTkcm/3gjTttSZrxwbZTkqouNNpv9sKp3BheWxvYWTESpcCFMQgX9MMDMas/uYJJlOyQGE8ahVRoaGyheUFftbJSXwlYarEIDCaSD4KnTV14NxP9pt4eh2cyAd9/0OU1FeRgT+H5REEAgHCo3NpZ8RAZGkS1FZ60ETKECH6+TdtYUI1EEKIqDuWhxHPbF4bvckzbrMJvJHkU/TDflQyDZeQjXZweOsn42j5Y3YqLll3DahzaWdfdHlwZSCkaGFzaIKkdHlwZQildmFsdWXEIG8BThz4wjITr+yxK9kKjX2Co2KXCvopHQMTafY8LIa4o3RhZ80CAqd2ZXJzaW9uAQ==
+
+And finally, I am proving ownership of this host by posting or
+appending to this document.
+
+View my publicly-auditable identity here: https://keybase.io/scoutquinn
+
+==================================================================

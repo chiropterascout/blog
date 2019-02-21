@@ -8,9 +8,7 @@ layout: page
 
   yeah. I've got so many words on that in my thesis and it was pretty much summed up in a sales line I heard at a work seminar.
 
-```
-M-x paintbrush
-```
+`M-x paintbrush`
 
   You can check out my code at [@scoutquinn](https://github.com/scoutquinn) and my twines at [calculush.gq](https://calculush.gq) and the weird music I make on graphics calculators is on soundcloud as [razor_lined](https://soundcloud.com/razor_lined).
 

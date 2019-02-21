@@ -10,7 +10,7 @@ layout: page
 
 `M-x paintbrush`
 
-  You can check out my code at [@scoutquinn](https://github.com/scoutquinn) and my twines at [calculush.gq](https://calculush.gq) and the weird music I make on graphics calculators is on soundcloud as [razor_lined](https://soundcloud.com/razor_lined).
+  You can check out my code at [@scoutquinn](https://github.com/scoutquinn) and my twines at [calculush.gq](https://calculush.gq) and the weird music I make on graphics calculators is on soundcloud as [razor_lined](https://soundcloud.com/razor_lined). that's right I said graphics calculators. my noise friend Uboa described it as "chipnoise".
 
   I advise against following my [twitter](https://twitter.com/calculush) or reading my [blog](blog), but you should check out my [RM profile](https://docs.google.com/document/d/1D6KiDY4bMC-Ijw29iwuN32lGAnVwJIbq7kkkQwZmayM/edit?usp=sharing) or hit me up on [keybase](https://keybase.io/scoutquinn).
 

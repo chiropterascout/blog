@@ -14,15 +14,15 @@ I guess it's probably mostly going to be art.
 
 so like I said in that first post that I might do commentary for my poetry. I guess I'll do that. and I've been talking to my therapist about trauma, and thinking about it a lot. so... let's start with that.
 
-[circa 2009](https://imogenerative.github.io/poetry/circa%202009/) is the story of my trauma. stop reading.
+[circa 2009](https://scoutquinn.github.io/poetry/circa%202009/) is the story of my trauma. stop reading.
 
 ---
 
 yeah okay.
 
-###### _[an open letter to my rapist in the third person](https://imogenerative.github.io/poetry/circa%202009/an%20open%20letter%20to%20my%20rapist%20in%20the%20third%20person)_
+###### _[an open letter to my rapist in the third person](https://scoutquinn.github.io/poetry/circa%202009/an%20open%20letter%20to%20my%20rapist%20in%20the%20third%20person)_
 
-I started with that old love poem - _[touch me taste me breathe me](https://imogenerative.github.io/poetry/the%20telegraph%20pole%20has%20spoke%20to%20me/touch%20me%20taste%20me%20breathe%20me)_ - which was incidentally the first poem I read at Silver Words. anyway, I start with that then move into where it gets dark. I scattered lines from old poems throughout both of the open letters. I guess I felt the meditative and abstract stuff from years ago was informed by this.
+I started with that old love poem - _[touch me taste me breathe me](https://scoutquinn.github.io/poetry/the%20telegraph%20pole%20has%20spoke%20to%20me/touch%20me%20taste%20me%20breathe%20me)_ - which was incidentally the first poem I read at Silver Words. anyway, I start with that then move into where it gets dark. I scattered lines from old poems throughout both of the open letters. I guess I felt the meditative and abstract stuff from years ago was informed by this.
 
 ```
 lose herself and she didn't think she wanted to be found
@@ -46,7 +46,7 @@ and then there's the scars. I did those. as recently as last week, actually. I'm
 
 ---
 
-###### _[a followup letter to my rapist in the first person](https://imogenerative.github.io/poetry/circa%202009/a%20followup%20letter%20to%20my%20rapist%20in%20the%20first%20person)_
+###### _[a followup letter to my rapist in the first person](https://scoutquinn.github.io/poetry/circa%202009/a%20followup%20letter%20to%20my%20rapist%20in%20the%20first%20person)_
 
 I really kept going with the butchering old poetry to write these here. like I even reference it in this one.
 
@@ -99,12 +99,12 @@ and I did, I didn't want to admit it - even to myself - but... I did.
 
 ---
 
-###### _[reminiscent of a broken girl](https://imogenerative.github.io/poetry/circa%202009/reminiscent%20of%20a%20broken%20girl)_
+###### _[reminiscent of a broken girl](https://scoutquinn.github.io/poetry/circa%202009/reminiscent%20of%20a%20broken%20girl)_
 
 I don't really have much to say about this. this is about the actual thing that happened and it's lasting effect. neither are good.
 
 ---
-###### _[leave them in ther grave](https://imogenerative.github.io/poetry/circa%202009/leave%20them%20in%20their%20grave)_
+###### _[leave them in ther grave](https://scoutquinn.github.io/poetry/circa%202009/leave%20them%20in%20their%20grave)_
 
 I'm back onto my current pronoun here, in a fairly dark way:
 

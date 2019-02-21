@@ -4,7 +4,7 @@ title: continued commentary
 date: 2018-03-04 23:26 AEST
 ---
 
-so in that commentary on _[circa 2009](https://imogenerative.github.io/poetry/circa%202009)_ yesterday there's one poem I referenced/mentioned a couple times - _[touch me taste me breathe me](https://imogenerative.github.io/poetry/the%20telegraph%20pole%20has%20spoke%20to%20me/touch%20me%20taste%20me%20breathe%20me)_. particularly in the context that the second open letter is practically a rewrite.
+so in that commentary on _[circa 2009](https://scoutquinn.github.io/poetry/circa%202009)_ yesterday there's one poem I referenced/mentioned a couple times - _[touch me taste me breathe me](https://scoutquinn.github.io/poetry/the%20telegraph%20pole%20has%20spoke%20to%20me/touch%20me%20taste%20me%20breathe%20me)_. particularly in the context that the second open letter is practically a rewrite.
 
 well.
 

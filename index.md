@@ -6,7 +6,7 @@ layout: page
 
   in terms of my [art](https://scoutquinn.github.io) 🎨 practice (haven't used that word for a while) I write a lot of concrete [poetry](https://scoutquinn.github.io/poetry) 🖊 (and do slams) 🎤 and I'm interested in the intersection of code and art, but not in the "beautiful code" way people usually mean when they talk about that, I'm more into the idea that there are things we can do with code as a tool for creating art, because technology is a paintbrush. 🖌 I heard that at a sales meeting.
 
-  yeah. I've got so many words on that in my exegesis 🏫 and it was pretty much summed up in a sales line I heard at a work seminar.
+  yeah. I've got so many words on that in my exegesis 🏫 (I also have a [thesis](http://stay-tuned-for-more.herokuapp.com/) 🎨!) and it was pretty much summed up in a sales line I heard at a work seminar.
 
 `M-x paintbrush`
 

@@ -8,9 +8,13 @@ layout: page
   
   I've spoken at conferences, predominantly on impostor syndrome and comtempt culture, which I also yell about frequently on social media, because they're important issues to be aware of in our industry. like super important. we need to be doing a lot more about both. also they're probably linked. that's my thesis anyway. not my thesis from art school. that's a weird work of new media art I wrote in *processing*. I also make tiny weird eletronic instruments and know my way around *circuit design*.
  
+---
+ 
   in terms of my [art](https://scoutquinn.github.io)🎨 I write a lot of concrete [poetry](https://scoutquinn.github.io/poetry)🖋 (and do slams) and make conceptual artgames. it's all on github for some reason, and I'm interested in the intersection of code and art, I'm into the idea that there are things we can do with code as a tool for creating art, because technology is a paintbrush. I heard that at a sales meeting.
 
 `M-x paintbrush`
+
+---
 
   You can check out my code at [@scoutquinn](https://github.com/scoutquinn)💻 and my twines at [calculush.gq](https://calculush.gq)🎮 and the weird music I make on graphics calculators is on soundcloud as [razor_lined](https://soundcloud.com/razor_lined)🎧. yeah I said graphics calculators, mostly the TI-82, -83 and -84. my noise musician friend **[Uboa](https://uboa.bandcamp.com/)🎧** described it as "chipnoise" - an intersection of chiptune and noise music, which is... accurate. 
   

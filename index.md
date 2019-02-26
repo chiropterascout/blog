@@ -16,5 +16,10 @@ layout: page
 
   I advise against following my [twitter](https://twitter.com/calculush)🐦 or reading my [blog](blog)📖, but you should check out my [CV](https://docs.google.com/document/d/1D6KiDY4bMC-Ijw29iwuN32lGAnVwJIbq7kkkQwZmayM/edit?usp=sharing)📄 or hit me up on [keybase](https://keybase.io/scoutquinn)🔑.
 
-  👀 **HEY CHECK OUT THIS COOL [BIRD](https://keybase.pub/scoutquinn/door-canary.txt)🦆 I FOUND IN A DOOR** 👀
+---
+
+👀 **HEY CHECK OUT THIS COOL [BIRD](https://keybase.pub/scoutquinn/door-canary.txt)🦆 I FOUND IN A DOOR**
+
+---
+
  

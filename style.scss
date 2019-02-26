@@ -66,7 +66,6 @@ h4 {
 
 p {
   margin: 15px 0;
-  text-align: justify;
 }
 
 a {
@@ -207,7 +206,6 @@ img {
   font-size: 16px;
 
   @include mobile {
-    float: none;
     margin: 3px 0;
   }
 }
@@ -242,6 +240,10 @@ nav {
 //
 // .main
 //
+
+.page {	
+  text-align: justify;
+}
 
 .posts > .post {
   padding-bottom: 2em;

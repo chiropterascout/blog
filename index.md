@@ -18,8 +18,7 @@ layout: page
 
 ---
 
-👀 **HEY CHECK OUT THIS COOL [BIRD](https://keybase.pub/scoutquinn/door-canary.txt)🦆 I FOUND IN A DOOR**
-
+👀 **HEY CHECK OUT THIS COOL [BIRD](https://keybase.pub/scoutquinn/door-canary.txt) I FOUND IN A DOOR** 🦆
 ---
 
  

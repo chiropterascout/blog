@@ -8,7 +8,7 @@ layout: page
   
   I've spoken at conferences, predominantly on impostor syndrome and comtempt culture, which I also yell about frequently on social media, because they're important issues to be aware of in our industry. like super important. we need to be doing a lot more about both. also they're probably linked. that's my thesis anyway. not my thesis from art school. that's a weird work of new media art I wrote in *processing*.
  
-  in terms of my [art](https://scoutquinn.github.io)🎨 practice (haven't used that word for a while) I write a lot of concrete [poetry](https://scoutquinn.github.io/poetry)🖋 (and do slams) and I'm interested in the intersection of code and art, I'm into the idea that there are things we can do with code as a tool for creating art, because technology is a paintbrush. I heard that at a sales meeting.
+  in terms of my [art](https://scoutquinn.github.io)🎨 practice (haven't used that word for a while) I write a lot of concrete [poetry](https://scoutquinn.github.io/poetry)🖋 (and do slams). it's all on github for some reason, and I'm interested in the intersection of code and art, I'm into the idea that there are things we can do with code as a tool for creating art, because technology is a paintbrush. I heard that at a sales meeting.
 
 `M-x paintbrush`
 

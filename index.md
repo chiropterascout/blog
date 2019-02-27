@@ -14,6 +14,8 @@ layout: page
  
   in terms of my [art](https://scoutquinn.github.io)🎨 I write a lot of concrete [poetry](https://scoutquinn.github.io/poetry)🖋 (and do slams) and make conceptual artgames. it's all on github for some reason, and I'm interested in the intersection of code and art, I'm into the idea that there are things we can do with code as a tool for creating art, because technology is a paintbrush. I heard that at a sales meeting.
 
+---
+
 ```
 M-x paintbrush
 ```

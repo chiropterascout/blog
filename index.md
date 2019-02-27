@@ -12,7 +12,7 @@ layout: page
  
 ---
  
-  in terms of my [art](https://scoutquinn.github.io)🎨 I write a lot of concrete [poetry](https://scoutquinn.github.io/poetry)🖋 (and do slams) and make conceptual artgames. it's all on github for some reason - maybe because I'm interested in the intersection of code and art... or maybe because it was convenient one time and now I'm committed. I also make strange [noise music/chiptune](https://soundcloud.com/razor_lined)🎧 on graphics calculators. forget 8-bit gameboy synths, that's a 1-bit synth coming out of a TI-84. I'm into the idea that there are things we can do with code and software as a tool for creating art, because technology is a paintbrush. I heard that at a sales meeting.
+  in terms of my [art](https://scoutquinn.github.io)🎨 I write a lot of concrete [poetry](https://scoutquinn.github.io/poetry)🖋 (and do slams) and make conceptual artgames. it's all on github for some reason. maybe because I'm interested in the intersection of code and art... or maybe because it was convenient one time and now I'm just committed to the idea. I also make strange [noise music/chiptune](https://soundcloud.com/razor_lined)🎧 on graphics calculators. forget 8-bit gameboy synths, that's a 1-bit synth coming out of a TI-84. I'm into the idea that there are things we can do with code and software as a tool for creating art, because technology is a paintbrush. I heard that at a sales meeting.
 
 ---
 

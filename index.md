@@ -16,9 +16,7 @@ layout: page
 
 ---
 
-```
-M-x paintbrush
-```
+`M-x paintbrush
 
 ---
 

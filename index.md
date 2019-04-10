@@ -22,7 +22,7 @@ layout: page
 
   You can check out my code at [@scoutquinn](https://github.com/scoutquinn)💻 and my artgames at [https://calculush.gq](https://calculush.gq)🎮 and the weird music I make on graphics calculators is on soundcloud as [razor_lined](https://soundcloud.com/razor_lined)🎧. my noise musician friend [_Uboa_](https://uboa.bandcamp.com/)🎧 described it as "chipnoise" - an intersection of chiptune and noise music, which is... accurate. 
   
-  I advise against following my [twitter](https://twitter.com/calculush)🐦 or reading my [blog](blog)📖, but you should check out my [CV](https://docs.google.com/document/d/1D6KiDY4bMC-Ijw29iwuN32lGAnVwJIbq7kkkQwZmayM/edit?usp=sharing)📄 or hit me up on [keybase](https://keybase.io/scoutquinn)🔑.
+  I advise against following my [twitter](https://twitter.com/calculush)🐦 or reading my [blog](blog)📖, but you should check out my [CV](https://docs.google.com/document/d/1bCQ-H4DzhO-q_-xzE5jWxbmyGGCm5hCP_yGEbcZQF08/edit?usp=sharing)📄 or hit me up on [keybase](https://keybase.io/scoutquinn)🔑.
 
 ---
 

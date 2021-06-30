@@ -2,7 +2,7 @@
 layout: page
 ---
 
-  hi, my name is Scout Quinn, and I’m a software developer with a fine arts degree. I currently work for [[REDACTED]](https://github.com/marketplacer)🛍️ as a Ruby developer. ~~I'm also genderqueer and/or non-binary and/or agender and/or...~~ _I'm agender, my pronouns are_ [_**they/them**_](https://pronoun.is/they/.../themselves)🌈. I founded a sibling group to PyLadies called PyEnbies in late 2017. We met monthly... ish... in Melbourne, Australia and we have a Slack, because of course we do. swing me an email at [scout.quinn@icloud.com](mailto:scout.quinn@icloud.com)📧 if you want to know more about that.
+  hi, my name is Scout Quinn, and I’m a software developer with a fine arts degree. I currently work for [[REDACTED]] as a Ruby developer. ~~I'm also genderqueer and/or non-binary and/or agender and/or...~~ _I'm agender, my pronouns are_ [_**they/them**_](https://pronoun.is/they/.../themselves)🌈. I founded a sibling group to PyLadies called PyEnbies in late 2017. We met monthly... ish... in Melbourne, Australia and we have a Slack, because of course we do. swing me an email at [scout.quinn@icloud.com](mailto:scout.quinn@icloud.com)📧 if you want to know more about that.
   
 ---
   
